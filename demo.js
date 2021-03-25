@@ -1,5 +1,6 @@
   //showin amasage 
  alart("hello world");
+ alert('Welcome'); 
  Comment 
  /*
  DataTypes ;
